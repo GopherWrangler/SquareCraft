@@ -1,0 +1,9 @@
+#pragma once
+#include "stdafx.h"
+#include <SFML/Graphics.hpp>
+#include <vector>
+#include <cmath>
+#include <time.h>
+#include "People.h"
+#include "Enemy.h"
+#include "APEngine.h"
